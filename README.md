@@ -1,8 +1,8 @@
 # Spotify-Track-Recommender-System-and-Popularity-Regression
 
 <p align="center">
-  <img src="images/recommendation.png" alt="recommendation" width="450">
-  <img src="images/predicted_vs_actual.png" alt="scatterplot" width="400">
+  <img src="images/recommendation.png" alt="recommendation" width="350">
+  <img src="images/predicted_vs_actual.png" alt="scatterplot" width="300">
 </p>
 
 ## Description
@@ -95,7 +95,7 @@ Built using the **K-Nearest Neighbors (KNN)** algorithm to find musically simila
 
 **Example:**  
 
-<img src="images/Travis_recommendation.png" alt="recommendation" width="500">
+<img src="images/Travis_recommendation.png" alt="recommendation" width="700">
 
 ### C. User-Level Analysis (Bonus)
 
